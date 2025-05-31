@@ -2,13 +2,6 @@
 
 **Natural Wellness in Every Bite** – Bliss Harmony Gummies are plant-based, gluten-free, and packed with nature's finest ingredients to promote relaxation, immunity, and holistic health.
 
-![Bliss Harmony Gummies Banner](./images/og-image.png)
-
-## 🔗 Live Demo
-
-👉 [Visit the Live Site](https://your-site.vercel.app)
-
----
 
 ## 🧘‍♀️ About the Product
 
