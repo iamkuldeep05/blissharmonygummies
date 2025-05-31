@@ -1,38 +1,35 @@
-# Bliss Harmony CBD Gummies Website
+# Bliss Harmony Gummies 🌿
 
-## Overview
-The Bliss Harmony website is designed to promote and sell Bliss Harmony CBD Gummies. It features sections for testimonials, special offers, frequently asked questions (FAQs), and a user-friendly navigation menu.
+**Natural Wellness in Every Bite** – Bliss Harmony Gummies are plant-based, gluten-free, and packed with nature's finest ingredients to promote relaxation, immunity, and holistic health.
 
-## Project Structure
-```
-bliss-harmony-website
-├── src
-│   ├── index.html        # Main HTML document for the website
-│   ├── style.css         # Styles for the website
-│   └── script.js         # JavaScript for FAQ functionality
-├── images
-│   ├── customer1.jpg     # Image for the first customer testimonial
-│   ├── customer2.jpg     # Image for the second customer testimonial
-│   ├── customer3.jpg     # Image for the third customer testimonial
-│   └── product.png       # Image for the product in the special offer section
-└── README.md             # Documentation for the project
-```
+![Bliss Harmony Gummies Banner](./images/og-image.png)
 
-## Setup Instructions
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in your web browser to view the website.
-3. Ensure that all image files are located in the `images` directory for proper display.
+## 🔗 Live Demo
 
-## Features
-- **Responsive Design**: The website is designed to be responsive and user-friendly on various devices.
-- **FAQ Section**: Users can click on questions to toggle the visibility of answers.
-- **Testimonials**: Real customer testimonials are displayed to build trust and credibility.
-- **Special Offers**: Clear presentation of special offers to encourage purchases.
+👉 [Visit the Live Site](https://your-site.vercel.app)
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
+---
 
-## License
-This project is licensed under the MIT License.
+## 🧘‍♀️ About the Product
+
+Bliss Harmony Gummies are the ultimate blend of flavor and function – designed to support **stress relief**, **immunity boost**, and **overall wellness**. Formulated with all-natural, vegan ingredients, these gummies are your daily go-to for:
+
+- 🌙 Better sleep
+- 💆 Anxiety relief
+- 🍃 Plant-based nutrition
+- 🛡️ Immune system support
+
+---
+
+## 💡 Features
+
+- ✅ 100% Vegan & Gluten-Free
+- ✅ No artificial colors or preservatives
+- ✅ Infused with natural herbs and vitamins
+- ✅ Delicious, fruity flavors
+- ✅ Non-GMO & cruelty-free
+
+---
+
+## Keywords
+Bliss Harmony Gummies, Bliss Gummies, natural supplements, vegan gummies, plant-based wellness, organic stress relief, sleep aid gummies, herbal supplements, immune support, anxiety relief, mood enhancement, daily wellness, holistic health, gluten-free supplements, vegan vitamins, natural health boosters, non-GMO gummies, wellness gummies for adults, CBD-free relaxants, fruity health gummies, wellness lifestyle products, herbal health solutions, vegan-friendly nutrition.
